@@ -59,15 +59,22 @@ Improvements:
 - [ ] fight torvian in the middle
 - [ ] keep hitting prisoner when down
 - [ ] consider using shield in p3 tavbakai
+- [ ] reorder support gems for priority
+- [ ] hide etcher
 
 Race times
 
-| time     | deths | DPS  |
-| -------- | ----- | ---- |
-| 02:44:36 | 0     | ?    |
-| 02:47:41 | 3     | ?    |
-| 02:56:39 | 11    | 2.4k |
-| 03:05:01 | 10    | 1.4k |
-| 02:47:32 | 4     | 1.6k |
+| time     | deths | DPS    |
+| -------- | ----- | ------ |
+| 02:44:36 | 0     | ? B    |
+| 02:47:41 | 3     | ?      |
+| 02:56:39 | 11    | 2.4k   |
+| 03:05:01 | 10    | 1.4k   |
+| 02:47:32 | 4     | 1.6k   |
+| 02:41:34 | 2     | 2.4k B |
+|          |       |        |
 
 
+| time     | deths | DPS |
+| -------- | ----- | --- |
+| 00:43:11 | 1     | 201 |
