@@ -70,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -214,11 +216,12 @@
   },
   "active": "6cb90a2766db210b",
   "lastOpenFiles": [
+    "Builds.md",
     "Zones.md",
+    "Twister Huntress - Levelling.md",
     "Path of Exile 2.md",
     "Grenades Merc A4.md",
-    "Builds.md",
-    "Twister Huntress - Levelling.md",
+    "Clearfell.md",
     "The Isle of Kin.md",
     "Mausoleum of the Preator.md",
     "Welcome.md"
