@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grenades Merc A4.md",
+                "file": "The Grelwood.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grenades Merc A4"
+              "title": "The Grelwood"
             }
           }
         ],
@@ -216,12 +216,13 @@
   },
   "active": "6cb90a2766db210b",
   "lastOpenFiles": [
-    "Builds.md",
-    "Zones.md",
-    "Twister Huntress - Levelling.md",
-    "Path of Exile 2.md",
     "Grenades Merc A4.md",
+    "Twister Huntress - Levelling.md",
+    "The Grelwood.md",
     "Clearfell.md",
+    "Path of Exile 2.md",
+    "Zones.md",
+    "Builds.md",
     "The Isle of Kin.md",
     "Mausoleum of the Preator.md",
     "Welcome.md"

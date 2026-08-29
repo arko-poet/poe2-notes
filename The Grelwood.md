@@ -1,0 +1,30 @@
+SSFSC Aldur Notes;
+- south entrance (south east)
+- north exit (north west)
+- SN layouts
+- TGR
+- on map red vale is south west from grelwood
+- layout 1 
+	- turned entrance
+	- 1st POI turn right against the entrance
+	- 2nd and 3rd POIs in roughly straight line to the right of 1st POI
+	- middle exit (down left from 3rd POI)
+	- witch and grim tangle can swap position
+- layout 2
+	- straight entrance
+	- 1st POI close up, slighhly left from entrance
+	- 2nd and 3rd POI at 45degrees up, far from 1st POI
+	- 4th POI straight up above 1st POI
+	- top exit, above 4th POI
+- layout 3
+	- straight entrance
+	- 1st POI strigh up, slighthly on the right (unlike L1 which )
+	- 2nd and 3rd POI at 45degrees up, far from 1st POI
+	- 4th POI straoght up from, slightly right POI 1
+	- left exit
+- layout 4
+	- straight entrance
+	- 1st POI straight up, far from entrace,
+	- 2ne and 3rd POI in straight horizontal line with exit and 1st POI
+	- 4th POI is straight up from 1st POI
+	- left exit
